@@ -17,8 +17,15 @@ int main() {
     printf("Jangan lupa mulaimu dari mana dan semua orang yang telah bantu dalam perjalananmu\n");
     printf("Wherever you are in life now, I know you've done your best and will keep doing your best\n");
     printf("\n");
+    printf("To The people who've helped me on this journey\n");
+    printf("I couldn't have blessed with better company\n");
+    printf("Through the highs and lows, my worst and my best\n");
+    printf("You've all helped and cared about me\n");
+    printf("To you, I give my forever gratitude\n");
+    printf("\n");
     printf("Remember that your past doesn't chain you\n");
     printf("To regret means you are someone wouldn't do the same thing now\n");
     printf("You are not me, you're better\n");
     printf("Best of luck, be grateful, and be blessed!\n");
+    printf("Thankyou for being here ❤️\n");
 }
